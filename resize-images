@@ -1,0 +1,2 @@
+#!/bin/sh
+exec mogrify -resize 800 *.jpg
