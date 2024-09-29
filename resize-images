@@ -1,2 +1,2 @@
 #!/bin/sh
-exec mogrify -resize 800 *.jpg
+exec mogrify -resize 800 "$@"
