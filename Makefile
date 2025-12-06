@@ -8,10 +8,10 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=df
+SSH_HOST=cycletux
 SSH_PORT=22
-SSH_USER=ssh-599816-1
-SSH_TARGET_DIR=/kunden/599816_90513/webseiten/cycletux.de/pelican
+SSH_USER=u78017
+SSH_TARGET_DIR=/homepages/u78017/cycletux.de
 
 
 DEBUG ?= 0
