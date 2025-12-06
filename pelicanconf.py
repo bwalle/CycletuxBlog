@@ -28,7 +28,7 @@ STATIC_PATHS = ['images']
 
 
 # Social widget
-SOCIAL = (('Mastodon', 'https://sueden.social/@cycletux'),)
+SOCIAL = (('Mastodon', 'https://mountains.social/@cycletux'),)
 
 DEFAULT_PAGINATION = False
 HIDE_CATEGORIES_FROM_MENU = False
